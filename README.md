@@ -31,3 +31,5 @@ python predict.py
 ```
 #### sample example
 ![image](https://github.com/user-attachments/assets/a863bd6d-4284-4833-a193-2de7316a440b)
+![Uploading image.png…]()
+
